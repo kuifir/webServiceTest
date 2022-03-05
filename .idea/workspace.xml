@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d8c7db-9af4-4645-9481-3edcc10babd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25x9PvSgXR0qXWyBTrIcgIbUCw3" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/clientTest/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.67126435" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\code\webServiceTest\serviceTest\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.clientModule">
+    <configuration name="WeatherMoudel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kuifir.moudel.WeatherMoudel" />
+      <module name="webServiceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kuifir.moduel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherMoudel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kuifir.moudel.WeatherMoudel" />
+      <module name="clientTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kuifir.moduel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clientModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kuifir.moduel.client.clientModule" />
+      <module name="clientTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kuifir.moduel.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seriveiceModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kuifir.moduel.seriveiceModule" />
+      <module name="serviceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kuifir.moduel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.clientModule" />
+        <item itemvalue="Application.seriveiceModule" />
+        <item itemvalue="Application.WeatherMoudel (1)" />
+        <item itemvalue="Application.WeatherMoudel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\myfir\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d8c7db-9af4-4645-9481-3edcc10babd5" name="Default Changelist" comment="" />
+      <created>1646457849443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646457849443</updated>
+      <workItem from="1646457853507" duration="7121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1646463006232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1646463006232" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1646463399759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1646463399759" />
+    <state x="404" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1646461847765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1646461847765" />
+    <state x="462" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1646461851440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1646461851440" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1646466117033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1646466117033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1646466117033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1646466117033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1646466117033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1646466117033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1646466117033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1646466117033" />
+    <state x="482" y="141" key="chooseDestDirectoryDialog" timestamp="1646464535559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1646464535559" />
+    <state x="-301" y="141" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1646463157972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-301" y="141" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1646463157972" />
+    <state x="57" y="24" key="new project wizard" timestamp="1646461831363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1646461831363" />
+  </component>
+</project>
