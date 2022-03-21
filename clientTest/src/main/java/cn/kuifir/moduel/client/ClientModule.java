@@ -14,7 +14,7 @@ import cn.kuifir.moduel.generatedCode.ServiceTestImplService;
  * <p>
  * Version: 0.0.1
  */
-public class clientModule {
+public class ClientModule {
     public static void main(String[] args) {
         // 创建服务视图（service 标签的 name属性）
         ServiceTestImplService serviceTestImplService = new ServiceTestImplService();
